@@ -79,7 +79,10 @@ form p a{
     outline: 0;
     cursor:pointer;
     transition:1s ;
+    color: #fff;
 }
+
+
 .btn-field button.disable{
     background:#eaeaea;
     color: #555;
